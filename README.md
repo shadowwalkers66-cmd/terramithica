@@ -4,6 +4,14 @@ This repository holds the novel manuscript, the story bible, and the full worldb
 canon for **TerraMythica**, the setting of *Shadows of the Veil: Awakening of the
 Emblematic*, along with the reference/media material generated alongside it.
 
+👉 **Start with [`ROADMAP.md`](ROADMAP.md)** — a maturity map of every folder plus a
+four-phase plan for closing the gaps between the worldbuilding and the manuscript.
+
+👉 **Ready to actually draft the novel? See [`novel-blueprint/NOVEL-BLUEPRINT.md`](novel-blueprint/NOVEL-BLUEPRINT.md)** —
+a full developmental-editorial package: a canon audit (what's real vs. unreconciled
+brainstorming), a story bible, a five-act structure, full character profiles, and a
+chapter-by-chapter build for Book One.
+
 **Nothing from the original repository was deleted or moved.** The raw material
 (`conversation-logs/`, `book-idea(2)/`, `images/`, and the loose root-level image file)
 is preserved exactly as uploaded. Everything below is a **new, organized filing** of
